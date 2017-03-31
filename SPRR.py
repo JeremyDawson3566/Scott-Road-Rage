@@ -1,6 +1,3 @@
-#Matthew Dullahan Jeremy Dawson
-#Winterfell Games
-#Scott Pilgrim Road Rage
 
 from gamelib import*
 
